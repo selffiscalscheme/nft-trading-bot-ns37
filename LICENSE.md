@@ -1,4 +1,4 @@
-# 
+# nft trading bot advanced Bot - floor-sweeping and take-profit offers the most advanced nft trading bot, with floor-sweeping and take-profit. Ideal for professional NFT traders and
 
 
 
